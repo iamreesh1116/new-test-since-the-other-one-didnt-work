@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { createPageUrl } from "@/utils";
 import { Home, Target, BarChart3, Trophy } from "lucide-react";
 import { cn } from "@/lib/utils";
+// this is the layout lol
 
 const navItems = [
   { name: "Home", icon: Home, page: "Home" },
